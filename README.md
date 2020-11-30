@@ -9,7 +9,8 @@
 
 A simple **React.js** sidebar component. 
 
-![alt text](https://github.com/nerooc/react-sidebar/blob/master/preview.png)
+|![alt text](https://github.com/nerooc/react-sidebar/blob/master/preview.png)
+|-
 
 # Getting Started with Create React App
 
